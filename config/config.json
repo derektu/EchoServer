@@ -1,6 +1,14 @@
 {
-    "echo" : {
+    "http" : {
         "port" : 7070
+    },
+
+    "sioecho" : {
+        "enable" : 1,
+        "testpage" : {
+            "path" : "/",
+            "file" : "./echo/index.html"
+        }
     },
 
     "tcpecho" : {
