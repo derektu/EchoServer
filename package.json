@@ -1,6 +1,6 @@
 {
     "name": "EchoServer",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "A server that echo client's packet over multiple protocols. Used to test network round-trip speed.",
     "repository": {
         "type": "git",
