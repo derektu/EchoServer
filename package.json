@@ -1,0 +1,14 @@
+{
+    "name": "EchoServer",
+    "version": "0.1",
+    "description": "A server that echo client's packet over multiple protocols. Used to test network round-trip speed.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/derektu/EchoServer"
+    },
+    "dependencies": {
+        "nconf": ">=0.6.7",
+        "shortid": ">= 1.0.9",
+        "socket.io": ">= 0.9.16"
+    }
+}
